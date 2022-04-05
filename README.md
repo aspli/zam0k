@@ -2,7 +2,7 @@
 <h3 align="center">A fullstack developer from Pará, Brazil</h3>
 
 
-- 🔭 I’m currently working on [my pet project: api-blog](https://github.com/zamok97/blog-api)
+- 🔭 I’m currently working on my pet project: [api-blog](https://github.com/zamok97/blog-api)
 
 - 🌱 I’m currently learning **Typescript**
 
