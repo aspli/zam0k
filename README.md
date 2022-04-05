@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelly Castelo</h1>
 <h3 align="center">A fullstack developer from Pará, Brazil</h3>
 
-<p align="left"> <a href="https://twitter.com/zamok97" target="blank"><img src="https://img.shields.io/twitter/follow/zamok97?logo=twitter&style=for-the-badge" alt="zamok97" /></a> <a href="mailto:kellyplcastelo@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+<p align="left"> <a href="https://twitter.com/zamok97" target="blank"><img src="https://img.shields.io/twitter/follow/zamok97?logo=twitter&style=for-the-badge" alt="zamok97" /></a> <a href="mailto:kellyplcastelo@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="" target="blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a></p>
 
 - 🔭 I’m currently working on [my pet project: api-blog](https://github.com/zamok97/blog-api)
 
