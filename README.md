@@ -15,7 +15,7 @@
 <h3 align="left">Reach me:</h3>
 <p align="left"> <a href="https://twitter.com/zamok97" target="blank"><img src="https://img.shields.io/badge/Zamok97-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a> <a href="mailto:kellyplcastelo@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zamok97&show_icons=true&theme=dark&locale=en&layout=compact" alt="zamok97" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zamok97&show_icons=true&theme=dark&locale=en&layout=compact" alt="zamok97" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zamok97&show_icons=true&theme=dark&locale=en" alt="zamok97" /></p>
 
