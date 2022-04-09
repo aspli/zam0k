@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelly Castelo</h1>
-<h3 align="center">A fullstack developer from Pará, Brazil</h3>
+<h3 align="center">A backend developer from Pará, Brazil</h3>
 <p align="center"><img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/637310/979bb2133de5a89a3f7a0524f8a1d27163301f6d.png" width="150px"/></p>
 
 
