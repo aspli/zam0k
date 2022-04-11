@@ -3,7 +3,7 @@
 <p align="center"><img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/637310/979bb2133de5a89a3f7a0524f8a1d27163301f6d.png" width="150px"/></p>
 
 
-- 🔭 I’m currently working on my pet project: [api-blog](https://github.com/zamok97/blog-api)
+- 🔭 I’m currently working on my pet project: [challenge-backend](https://github.com/zam0k/challenge-backend)
 
 - 🌱 I’m currently learning **Typescript**
 
