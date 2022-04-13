@@ -15,10 +15,10 @@
 
 <h3 align="left">Reach me:</h3>
 <p align="left"> <a href="https://twitter.com/zamok97" target="blank"><img src="https://img.shields.io/badge/Zamok97-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a> <a href="mailto:kellyplcastelo@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="" target="blank"><img src="https://img.shields.io/badge/Zamok%231481-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zam0k&show_icons=true&theme=dark&locale=en&layout=compact" alt="zam0k" /></p>
-
  
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zam0k" alt="zam0k" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zam0k&show_icons=true&theme=dark&locale=en&layout=compact" alt="zam0k" /></p> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zam0k&show_icons=true&theme=dark&locale=en" alt="zam0k" /></p>
 
 
