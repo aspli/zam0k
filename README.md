@@ -18,7 +18,11 @@
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zam0k" alt="zam0k" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zam0k&show_icons=true&theme=dark&locale=en&layout=compact" alt="zam0k" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zam0k&show_icons=true&theme=dark&locale=en" alt="zam0k" /></p>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zam0k&show_icons=true&theme=dark&locale=en&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zam0k&show_icons=true&theme=dark&locale=en" />
+</a>
 
 
