@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my pet project: [challenge-backend](https://github.com/zam0k/challenge-backend)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning how to make unit and integration tests using **Jest**
 
 - 😄 Pronouns: **she/her/they/them**
 
