@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelly Castelo</h1>
 <h3 align="center">A backend developer from Pará, Brazil</h3>
-<p align="center"><img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/637310/979bb2133de5a89a3f7a0524f8a1d27163301f6d.png" width="150px"/></p>
+<p align="center"><img src="https://64.media.tumblr.com/6721d0289ba04b8c03908e3b216ff360/2c4b5faffa0b56a4-4f/s400x600/16c40f8ac4c3f71d9c50b9b2b5129d3f892e9de6.gifv" width="300px"/></p>
 
 
 - 🔭 I’m currently working on my pet project: [challenge-backend](https://github.com/zam0k/challenge-backend)
