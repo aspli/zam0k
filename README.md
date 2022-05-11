@@ -5,7 +5,7 @@
 
  🔭 Atualmente estou trabalhando no projeto [challenge-backend](https://github.com/zam0k/challenge-backend)
 
- 🌱 Estou aprendendo a trabalhar com autenticação usando **JWT**
+ 🌱 Estou aprendendo a trabalhar com **Python3**
 
  😄 Pronomes: **ela/dela**
 
