@@ -18,13 +18,12 @@
 <h3 align="left">Contate-me:</h3>
 <p align="left"> <a href="https://twitter.com/zamok97" target="blank"><img src="https://img.shields.io/badge/Zamok97-3e4772.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a> <a href="mailto:kellyplcastelo@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-3e4772?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="" target="blank"><img src="https://img.shields.io/badge/Zamok%231481-3e4772.svg?style=for-the-badge&logo=discord&logoColor=white"/></p>
  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zam0k" alt="zam0k" /></a> </p>
-
- <a href="/">
-  <img align="center" width="335px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zam0k&show_icons=true&theme=dark&locale=en&layout=compact" />
-</a>
-<a href="/">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=zam0k&show_icons=true&theme=dark&locale=en" />
-</a>
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=zam0k" alt="zam0k" /></a> </p>
 
 
+<p align="center">
+   <img align="center" width="335px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zam0k&show_icons=true&theme=dark&locale=en&layout=compact" />
+   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=zam0k&show_icons=true&theme=dark&locale=en" />
+ 
+
+</p>
