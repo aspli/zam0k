@@ -4,12 +4,10 @@
 
 
 <p><span align="right">
- Hello, my name is Kelly Castelo, i'm a 25 years old self-taught programmer passionated about backend, devops and familiar with the basics about frontend. 
+ Hello, my name is Kelly Castelo, i'm a self-taught programmer passionated about backend, devops and familiar with the basics about frontend. 
 
 
- Currently i'm learning to work with <b>GraphQL</b>, aiming to understand it more.
-
- Pronouns: <b>she/they</b>
+ Pronouns: <b>she/he/they</b>
 
  </span>
 </p>
